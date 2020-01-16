@@ -1,0 +1,7 @@
+{
+    "env": {
+      "environment": "staging",
+      "baseUrl": "https://stg.portal.auone.jp/",
+      "graphqlEndpoint": "https://stg.api.portal.auone.jp/graphql"
+      }
+}

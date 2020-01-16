@@ -1,0 +1,7 @@
+{
+    "env": {
+      "environment": "production",
+      "baseUrl": "https://portal.auone.jp/",
+      "graphqlEndpoint": "https://api.portal.auone.jp/graphql"
+    }
+}
